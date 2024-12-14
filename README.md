@@ -1,4 +1,4 @@
-# Phones shop demo app ([DEMO LINK](https://arthur-tolkachov.github.io/phone-shope-demo/))
+# Phones shop demo app ([DEMO LINK](https://arthur-tolkachov.github.io/react_phone-catalog/))
 
 ### Designs:
 - Light theme - [Figma](https://www.figma.com/design/T5ttF21UnT6RRmCQQaZc6L/Phone-catalog-(V2)-Original?node-id=2-161&t=z9R9O9NviMLWKDkJ-0)
