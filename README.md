@@ -8,7 +8,11 @@
 - HTML
 - CSS/SCSS
 - JS
+- TS
 - React
 
 ### Packages:
 - React Swiper
+- React Router Dom
+- React Hot Toast
+- React Select
