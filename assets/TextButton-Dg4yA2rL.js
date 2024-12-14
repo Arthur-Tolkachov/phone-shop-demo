@@ -1,0 +1,1 @@
+import{j as t,c,T as l}from"./index-GRx_6V2v.js";const r="_btn_lorcl_6",m="_text_lorcl_14",n={btn:r,text:m},b=({children:e,className:o,startAdornment:s,onClick:x,...a})=>t.jsxs("button",{className:c(n.btn,o),onClick:x,...a,children:[s&&t.jsx(s,{}),t.jsx(l,{variant:"small",className:n.text,children:e})]});export{b as T};
